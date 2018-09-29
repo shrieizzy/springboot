@@ -9,8 +9,7 @@
 .settings
 .project
 .classpath
-.studio
-target
+
 
 # Apple # 
 .DS_Store
